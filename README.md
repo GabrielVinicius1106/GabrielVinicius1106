@@ -34,13 +34,7 @@ Desenvolvedor Web Fullstack
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&hide=contribs,prs)
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVinicius1106&layout=compact&theme=tokyonight"/>
-  </a>
+ ![Minhas estatísticas: ](https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&hide=contribs,prs&show_icons=true)
 </div>
 
 ---

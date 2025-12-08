@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Olá! Eu sou o Gabriel</h1>
+  <h1>Olá, eu sou o Gabriel</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Web+Developer;Hello+World!" alt="Typing SVG" />
   </a>
 </div>
 

@@ -35,7 +35,7 @@ Desenvolvedor Web Fullstack
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&hide=contribs,prs)
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">

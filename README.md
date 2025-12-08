@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Buenas! Eu sou o [TEU NOME] 🧉</h1>
+  <h1>Buenas! Eu sou o Gabriel</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia;Apaixonado+por+C+e+Algoritmos;Devorador+de+Livros;Sempre+com+o+chimarr%C3%A3o+na+m%C3%A3o" alt="Typing SVG" />
@@ -11,24 +11,22 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um estudante apaixonado por tecnologia e resoluções de problemas complexos. Atualmente estou focado em aprofundar meus conhecimentos na base da computação e matemática.
+Desenvolvedor Web Fullstack
 
-- 🎓 **Estudando:** [Teu Curso] na [Tua Universidade]
-- 🔭 **Focando em:** [C, Estrutura de Dados, Álgebra Linear, etc.]
-- 💼 **Projetos:** Participo do [Nome do Projeto/Empresa Jr se tiver]
-- ⚡ **Curiosidade:** Adoro resolver problemas de lógica enquanto tomo um mate.
+- 🎓 **Estudando:** Ciência da Computação na Udesc-CCT.
+- 🔭 **Focando em:** Tecnologias Frontend e Backend, Estruturas de Dados e Algoritmos
+- 💼 **Projetos:** Sou membro da Konvex Jr.
 
 ---
 
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 ---

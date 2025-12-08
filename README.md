@@ -33,9 +33,7 @@ Desenvolvedor Web Fullstack
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
- ![Minhas estatísticas: ](https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&hide=contribs,prs&show_icons=true)
-</div>
+![Minhas estatísticas: ](https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&hide=contribs,prs&show_icons=true)
 
 ---
 

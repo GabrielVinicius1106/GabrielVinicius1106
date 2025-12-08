@@ -3,7 +3,7 @@
   <h1>Buenas! Eu sou o Gabriel</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Desenvolvedor de Software;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software" alt="Typing SVG" />
   </a>
 </div>
 

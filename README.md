@@ -31,22 +31,6 @@ Desenvolvedor Web Fullstack
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&show_icons=true"
-    media="(prefers-color-scheme: darklight), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&show_icons=true" />
-</picture>
-
----
-
 <div align="center">
   <sub>Feito com muito código.</sub>
 </div>

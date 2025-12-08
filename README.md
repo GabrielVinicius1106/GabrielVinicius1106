@@ -13,9 +13,9 @@
 
 Desenvolvedor Web Fullstack
 
-- 🎓 **Estudando:** Ciência da Computação na Udesc-CCT.
+- 🎓 **Estudando:** Ciências da Computação na Udesc-CCT.
 - 🔭 **Focando em:** Tecnologias Frontend e Backend, Estruturas de Dados e Algoritmos
-- 💼 **Projetos:** Sou membro da Konvex Jr.
+- 💼 **Projetos:** Membro da Konvex Jr, atuando na área de projetos e mercado.
 
 ---
 
@@ -35,16 +35,16 @@ Desenvolvedor Web Fullstack
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVinicius1106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVinicius1106&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Feito com muito código e café (ou chimarrão).</sub>
+  <sub>Feito com muito código.</sub>
 </div>

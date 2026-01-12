@@ -13,10 +13,10 @@
 
 Desenvolvedor Web Fullstack
 
-- 🎓 **Estudando:** Ciências da Computação na Udesc-CCT.
+- 🎓 **Estudando:** Ciência da Computação na Udesc-CCT.
 - 🔭 **Focando em:** Desenvolvimento Fullstack, Estruturas de Dados e Algoritmos.
 - 💼 **Cargo Atual:** Membro da Konvex Jr, atuando na área de mercado e projetos.
-- ⚡ **Serviços:** Desenvolvimento de Websites e Landing Pages focados em SEO, responsividade e UX / UI.
+- ⚡ **Serviços:** Desenvolvimento de Websites e Aplicações focados em SEO, responsividade e UX / UI.
 
 ---
 

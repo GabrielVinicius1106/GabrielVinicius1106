@@ -31,7 +31,3 @@ Desenvolvedor Web Fullstack
 </div>
 
 ---
-
-<div align="center">
-  <sub>Feito com muito código.</sub>
-</div>
